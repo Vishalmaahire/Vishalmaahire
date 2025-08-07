@@ -26,6 +26,3 @@ Other Tools:     Git, Postman, Power BI, Azure DevOps
 Architecture:    Medallion Architecture, Delta Lake
 
 
----
-
-
