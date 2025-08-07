@@ -25,5 +25,50 @@ Azure Services:  Data Factory, Databricks, Synapse, Data Lake Gen2, Key Vault
 Other Tools:     Git, Postman, Power BI, Azure DevOps
 Architecture:    Medallion Architecture, Delta Lake
 
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" /> </p>
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalmaahire&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalmaahire&theme=tokyonight" />
+</p>
+
+---
+
+📌 **Pinned Projects**
+
+Here are some of my project repositories:
+
+- 🔗 [azure-logistics-data-pipeline](https://github.com/---
+
+📫 **Connect with Me**
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~YOUR-ID)
+/azure-logistics-data-pipeline) – ADF + Databricks + Medallion
+- 🔗 [python-transformations](https://github.com/---
+
+📫 **Connect with Me**
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~YOUR-ID)
+/python-transformations) – ETL Scripts using Pandas and PySpark
+- 🔗 [financial-data-migration](https://github.com/---
+
+📫 **Connect with Me**
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~YOUR-ID)
+/financial-data-migration) – Data migration to Synapse (coming soon)
+
+---
+
+📫 **Connect with Me**
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~YOUR-ID)
+
+
+
+
