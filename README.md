@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm John</h1>
+<h3 align="center">Azure Data Engineer | ADF • Databricks • Synapse • Python</h3>
 
-<!--
-**Vishalmaahire/Vishalmaahire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+Data+Pipelines+on+Azure!;Medallion+Architecture+Practitioner;Open+to+Freelance+Opportunities!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**
+
+- 🔭 I’m currently working as a **Data Engineer** at HTC Global Services  
+- 🌱 I’m learning more about **Cloud Cost Optimization & Delta Live Tables**
+- 💬 Ask me about anything in **ADF, Databricks, Synapse, Delta Lake**
+- 🧑‍💻 I build data pipelines with **Medallion Architecture**
+- 🧠 I'm preparing for **DP-203 (Azure Data Engineer Associate)**
+
+---
+
+🛠️ **Tech Stack**
+
+```bash
+Languages:       Python, SQL
+Azure Services:  Data Factory, Databricks, Synapse, Data Lake Gen2, Key Vault
+Other Tools:     Git, Postman, Power BI, Azure DevOps
+Architecture:    Medallion Architecture, Delta Lake
