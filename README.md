@@ -24,8 +24,3 @@ Languages:       Python, SQL
 Azure Services:  Data Factory, Databricks, Synapse, Data Lake Gen2, Key Vault
 Other Tools:     Git, Postman, Power BI, Azure DevOps
 Architecture:    Medallion Architecture, Delta Lake
-✅ Corrected Version (Clean and Professional)
-markdown
-Copy
-Edit
----
