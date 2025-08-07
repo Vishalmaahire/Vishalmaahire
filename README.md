@@ -28,11 +28,4 @@ Architecture:    Medallion Architecture, Delta Lake
 
 ---
 
-📫 **Connect with Me**
-
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 💻 [Upwork](https://www.upwork.com/freelancers/~YOUR-ID)
-
-
-
 
