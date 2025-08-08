@@ -24,3 +24,9 @@ Languages:       Python, SQL
 Azure Services:  Data Factory, Databricks, Synapse, Data Lake Gen2, Key Vault
 Other Tools:     Git, Postman, Power BI, Azure DevOps
 Architecture:    Medallion Architecture, Delta Lake
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-vishal-suresh-920422376/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/vishal_mahire/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vishal_mahire)
